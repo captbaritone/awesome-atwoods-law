@@ -18,6 +18,7 @@ Law](https://blog.codinghorror.com/the-principle-of-least-power/) states:
 * [Open2C2k](https://github.com/rage8885/OpenSC2K) - Sim City 2000 by Maxis ([GitHub](https://github.com/rage8885/OpenSC2K))
 * [Skifree.js](https://basicallydan.github.io/skifree.js/) - SkiFree ([GitHub](https://github.com/basicallydan/skifree.js))
 * [Winamp2-js](https://webamp.org/) - WinAmp ([GitHub](https://github.com/captbaritone/winamp2-js))
+* [98.js](https://98.js.org/) - Windows 98 ([GitHub](https://github.com/1j01/98))
 
 ## Mac Applications
 
